@@ -1,0 +1,81 @@
+{
+  "selection_criterion_locked_before_test": "1. Evidence Hit@3 (dev, verified on test) -> 2. Grounding quality -> 3. Chunk coherence & ingest/query cost",
+  "embedder": {
+    "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+    "dimensions": 384
+  },
+  "ingest_stats": {
+    "A": {
+      "chunk_count": 273,
+      "ingest_sec": 8.09
+    },
+    "B": {
+      "chunk_count": 176,
+      "ingest_sec": 7.71
+    },
+    "C": {
+      "chunk_count": 176,
+      "ingest_sec": 7.95
+    }
+  },
+  "strategies": {
+    "A": {
+      "dev": {
+        "total": 15,
+        "hit_at_1": "7/15 (46.7%)",
+        "hit_at_3": "10/15 (66.7%)",
+        "hit_at_1_count": 7,
+        "hit_at_3_count": 10,
+        "split_evidence_errors": [
+          "q07"
+        ]
+      },
+      "test": {
+        "total": 5,
+        "hit_at_1": "2/5 (40.0%)",
+        "hit_at_3": "3/5 (60.0%)",
+        "hit_at_1_count": 2,
+        "hit_at_3_count": 3,
+        "split_evidence_errors": [
+          "q16"
+        ]
+      }
+    },
+    "B": {
+      "dev": {
+        "total": 15,
+        "hit_at_1": "5/15 (33.3%)",
+        "hit_at_3": "10/15 (66.7%)",
+        "hit_at_1_count": 5,
+        "hit_at_3_count": 10,
+        "split_evidence_errors": []
+      },
+      "test": {
+        "total": 5,
+        "hit_at_1": "1/5 (20.0%)",
+        "hit_at_3": "3/5 (60.0%)",
+        "hit_at_1_count": 1,
+        "hit_at_3_count": 3,
+        "split_evidence_errors": []
+      }
+    },
+    "C": {
+      "dev": {
+        "total": 15,
+        "hit_at_1": "5/15 (33.3%)",
+        "hit_at_3": "9/15 (60.0%)",
+        "hit_at_1_count": 5,
+        "hit_at_3_count": 9,
+        "split_evidence_errors": []
+      },
+      "test": {
+        "total": 5,
+        "hit_at_1": "1/5 (20.0%)",
+        "hit_at_3": "3/5 (60.0%)",
+        "hit_at_1_count": 1,
+        "hit_at_3_count": 3,
+        "split_evidence_errors": []
+      }
+    }
+  }
+}

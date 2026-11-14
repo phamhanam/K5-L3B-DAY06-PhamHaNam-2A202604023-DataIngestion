@@ -1,0 +1,859 @@
+{
+  "bias_note": "Scored manually by benchmark author (self-evaluation bias risk). No LLM judge used.",
+  "1_chunk_coherence_0_to_2": {
+    "sampled_pages_picked_before_scores": [
+      1,
+      4,
+      7,
+      10,
+      13,
+      16,
+      19,
+      22,
+      25,
+      28
+    ],
+    "rubric": "0 = cut mid-idea, 1 = partial, 2 = self-contained",
+    "scores": {
+      "A": {
+        "1": {
+          "first_chunk_preview": "FIGURE 1.1 Do You Use Facebook? Economics is greatly impacted by how well information travels through\nsociety. Today, social media giants Twitter, Facebook, and Instagram are major forces on the information super\nhighway",
+          "score": 1
+        },
+        "4": {
+          "first_chunk_preview": "FIGURE 1.3 Adam Smith Adam Smith introduced the idea of dividing labor into discrete tasks. (Credit: \"Adam\nSmith\" by Cadell and Davies (1811), John Horsburgh (1828), or R.C. Bell (1872)/Wikimedia Commons, Public\nDomain)\n",
+          "score": 1
+        },
+        "7": {
+          "first_chunk_preview": "classmates, co-workers, or political candidates talking about economics, you will be able to distinguish\nbetween common sense and nonsense. You will find new ways of thinking about current events and about\npersonal and b",
+          "score": 1
+        },
+        "10": {
+          "first_chunk_preview": "services) in which households demand and firms supply. Households sell their labor as workers to firms in\nreturn for wages, salaries, and benefits. The inner circle shows this and represents the two sides of the labor\nma",
+          "score": 1
+        },
+        "13": {
+          "first_chunk_preview": "Most Economic Freedom Least Economic Freedom\n9. Estonia 175. Zimbabwe\n10. United Kingdom 176. Venezuela\n11. United States 177. Cuba\n12. Denmark 178. North Korea\nTABLE 1.1 Economic Freedoms, 2016 (Source: The Heritage\nFou",
+          "score": 1
+        },
+        "16": {
+          "first_chunk_preview": "Key Terms\ncircular flow diagram a diagram that views the economy as consisting of households and firms interacting in\na goods and services market and a labor market\ncommand economy an economy where economic decisions are",
+          "score": 1
+        },
+        "19": {
+          "first_chunk_preview": "FIGURE 2.1 Choices and Tradeoffs In general, the higher the degree, the higher the salary, so why aren’t more\npeople pursuing higher degrees? The short answer: choices and tradeoffs. (Credit: modification of \"College of\n",
+          "score": 1
+        },
+        "22": {
+          "first_chunk_preview": "A fundamental principle of economics is that every choice has an opportunity cost. If you sleep through your\neconomics class, the opportunity cost is the learning you miss from not attending class. If you spend your\ninco",
+          "score": 1
+        },
+        "25": {
+          "first_chunk_preview": "marginal utility from those last few servings would not be very high. Similarly, most workers do not say: “I\nenjoy leisure, so I’ll never work.” Instead, workers recognize that even though some leisure is very nice, a\nco",
+          "score": 1
+        },
+        "28": {
+          "first_chunk_preview": "relatively large gains. On the other hand, if a large number of resources are already committed to education,\nthen committing additional resources will bring relatively smaller gains.\nThis pattern is common enough that e",
+          "score": 1
+        }
+      },
+      "B": {
+        "1": {
+          "first_chunk_preview": "FIGURE 1.1 Do You Use Facebook? Economics is greatly impacted by how well information travels through\nsociety. Today, social media giants Twitter, Facebook, and Instagram are major forces on the information super\nhighway",
+          "score": 1
+        },
+        "4": {
+          "first_chunk_preview": "FIGURE 1.3 Adam Smith Adam Smith introduced the idea of dividing labor into discrete tasks. (Credit: \"Adam\nSmith\" by Cadell and Davies (1811), John Horsburgh (1828), or R.C. Bell (1872)/Wikimedia Commons, Public\nDomain)\n",
+          "score": 1
+        },
+        "7": {
+          "first_chunk_preview": "classmates, co-workers, or political candidates talking about economics, you will be able to distinguish\nbetween common sense and nonsense. You will find new ways of thinking about current events and about\npersonal and b",
+          "score": 1
+        },
+        "10": {
+          "first_chunk_preview": "services) in which households demand and firms supply. Households sell their labor as workers to firms in\nreturn for wages, salaries, and benefits. The inner circle shows this and represents the two sides of the labor\nma",
+          "score": 1
+        },
+        "13": {
+          "first_chunk_preview": "Most Economic Freedom Least Economic Freedom\n9. Estonia 175. Zimbabwe\n10. United Kingdom 176. Venezuela\n11. United States 177. Cuba\n12. Denmark 178. North Korea\nTABLE 1.1 Economic Freedoms, 2016 (Source: The Heritage\nFou",
+          "score": 1
+        },
+        "16": {
+          "first_chunk_preview": "Key Terms circular flow diagram a diagram that views the economy as consisting of households and firms interacting in a goods and services market and a labor market command economy an economy where economic decisions are",
+          "score": 1
+        },
+        "19": {
+          "first_chunk_preview": "FIGURE 2.1 Choices and Tradeoffs In general, the higher the degree, the higher the salary, so why aren’t more\npeople pursuing higher degrees? The short answer: choices and tradeoffs. (Credit: modification of \"College of\n",
+          "score": 1
+        },
+        "22": {
+          "first_chunk_preview": "A fundamental principle of economics is that every choice has an opportunity cost. If you sleep through your\neconomics class, the opportunity cost is the learning you miss from not attending class. If you spend your\ninco",
+          "score": 1
+        },
+        "25": {
+          "first_chunk_preview": "marginal utility from those last few servings would not be very high. Similarly, most workers do not say: “I\nenjoy leisure, so I’ll never work.” Instead, workers recognize that even though some leisure is very nice, a\nco",
+          "score": 1
+        },
+        "28": {
+          "first_chunk_preview": "relatively large gains. On the other hand, if a large number of resources are already committed to education,\nthen committing additional resources will bring relatively smaller gains. This pattern is common enough that e",
+          "score": 1
+        }
+      },
+      "C": {
+        "1": {
+          "first_chunk_preview": "FIGURE 1.1 Do You Use Facebook? Economics is greatly impacted by how well information travels through\nsociety. Today, social media giants Twitter, Facebook, and Instagram are major forces on the information super\nhighway",
+          "score": 1
+        },
+        "4": {
+          "first_chunk_preview": "FIGURE 1.3 Adam Smith Adam Smith introduced the idea of dividing labor into discrete tasks. (Credit: \"Adam\nSmith\" by Cadell and Davies (1811), John Horsburgh (1828), or R.C. Bell (1872)/Wikimedia Commons, Public\nDomain)\n",
+          "score": 1
+        },
+        "7": {
+          "first_chunk_preview": "classmates, co-workers, or political candidates talking about economics, you will be able to distinguish\nbetween common sense and nonsense. You will find new ways of thinking about current events and about\npersonal and b",
+          "score": 1
+        },
+        "10": {
+          "first_chunk_preview": "services) in which households demand and firms supply. Households sell their labor as workers to firms in\nreturn for wages, salaries, and benefits. The inner circle shows this and represents the two sides of the labor\nma",
+          "score": 1
+        },
+        "13": {
+          "first_chunk_preview": "Most Economic Freedom Least Economic Freedom\n9. Estonia 175. Zimbabwe\n10. United Kingdom 176. Venezuela\n11. United States 177. Cuba\n12. Denmark 178. North Korea\nTABLE 1.1 Economic Freedoms, 2016 (Source: The Heritage\nFou",
+          "score": 1
+        },
+        "16": {
+          "first_chunk_preview": "Key Terms circular flow diagram a diagram that views the economy as consisting of households and firms interacting in a goods and services market and a labor market command economy an economy where economic decisions are",
+          "score": 1
+        },
+        "19": {
+          "first_chunk_preview": "FIGURE 2.1 Choices and Tradeoffs In general, the higher the degree, the higher the salary, so why aren’t more\npeople pursuing higher degrees? The short answer: choices and tradeoffs. (Credit: modification of \"College of\n",
+          "score": 1
+        },
+        "22": {
+          "first_chunk_preview": "A fundamental principle of economics is that every choice has an opportunity cost. If you sleep through your\neconomics class, the opportunity cost is the learning you miss from not attending class. If you spend your\ninco",
+          "score": 1
+        },
+        "25": {
+          "first_chunk_preview": "marginal utility from those last few servings would not be very high. Similarly, most workers do not say: “I\nenjoy leisure, so I’ll never work.” Instead, workers recognize that even though some leisure is very nice, a\nco",
+          "score": 1
+        },
+        "28": {
+          "first_chunk_preview": "relatively large gains. On the other hand, if a large number of resources are already committed to education,\nthen committing additional resources will bring relatively smaller gains. This pattern is common enough that e",
+          "score": 1
+        }
+      }
+    }
+  },
+  "2_metadata_usefulness_5_test": {
+    "rubric": "Verify source, page, and filter fields vs corpus; report correct_and_complete/15 and filter_compliance",
+    "items": [
+      {
+        "id": "q06",
+        "strategy": "A",
+        "filter_expected": null,
+        "retrieved_meta": [
+          {
+            "chunk_id": "openstax_econ_3e_p31_fixed_8",
+            "page": 31,
+            "metadata": {
+              "section": "2.3",
+              "strategy": "fixed_size",
+              "chunk_index": 8
+            }
+          },
+          {
+            "chunk_id": "openstax_econ_3e_p36_fixed_6",
+            "page": 36,
+            "metadata": {
+              "section": "2.3",
+              "strategy": "fixed_size",
+              "chunk_index": 6
+            }
+          },
+          {
+            "chunk_id": "openstax_econ_3e_p32_fixed_0",
+            "page": 32,
+            "metadata": {
+              "strategy": "fixed_size",
+              "chunk_index": 0
+            }
+          }
+        ],
+        "correct_and_complete_out_of_3": 3,
+        "filter_compliant_out_of_3_or_NA": "N/A"
+      },
+      {
+        "id": "q12",
+        "strategy": "A",
+        "filter_expected": null,
+        "retrieved_meta": [
+          {
+            "chunk_id": "openstax_econ_3e_p13_fixed_2",
+            "page": 13,
+            "metadata": {
+              "strategy": "fixed_size",
+              "chunk_index": 2
+            }
+          },
+          {
+            "chunk_id": "openstax_econ_3e_p11_fixed_4",
+            "page": 11,
+            "metadata": {
+              "strategy": "fixed_size",
+              "chunk_index": 4
+            }
+          },
+          {
+            "chunk_id": "openstax_econ_3e_p8_fixed_0",
+            "page": 8,
+            "metadata": {
+              "section": "1.3",
+              "strategy": "fixed_size",
+              "chunk_index": 0
+            }
+          }
+        ],
+        "correct_and_complete_out_of_3": 3,
+        "filter_compliant_out_of_3_or_NA": "N/A"
+      },
+      {
+        "id": "q16",
+        "strategy": "A",
+        "filter_expected": null,
+        "retrieved_meta": [
+          {
+            "chunk_id": "openstax_econ_3e_p12_fixed_4",
+            "page": 12,
+            "metadata": {
+              "strategy": "fixed_size",
+              "chunk_index": 4
+            }
+          },
+          {
+            "chunk_id": "openstax_econ_3e_p12_fixed_5",
+            "page": 12,
+            "metadata": {
+              "strategy": "fixed_size",
+              "chunk_index": 5
+            }
+          },
+          {
+            "chunk_id": "openstax_econ_3e_p12_fixed_3",
+            "page": 12,
+            "metadata": {
+              "strategy": "fixed_size",
+              "chunk_index": 3
+            }
+          }
+        ],
+        "correct_and_complete_out_of_3": 3,
+        "filter_compliant_out_of_3_or_NA": "N/A"
+      },
+      {
+        "id": "q17",
+        "strategy": "A",
+        "filter_expected": null,
+        "retrieved_meta": [
+          {
+            "chunk_id": "openstax_econ_3e_p30_fixed_2",
+            "page": 30,
+            "metadata": {
+              "strategy": "fixed_size",
+              "chunk_index": 2
+            }
+          },
+          {
+            "chunk_id": "openstax_econ_3e_p29_fixed_8",
+            "page": 29,
+            "metadata": {
+              "strategy": "fixed_size",
+              "chunk_index": 8
+            }
+          },
+          {
+            "chunk_id": "openstax_econ_3e_p36_fixed_1",
+            "page": 36,
+            "metadata": {
+              "section": "2.3",
+              "strategy": "fixed_size",
+              "chunk_index": 1
+            }
+          }
+        ],
+        "correct_and_complete_out_of_3": 3,
+        "filter_compliant_out_of_3_or_NA": "N/A"
+      },
+      {
+        "id": "q20",
+        "strategy": "A",
+        "filter_expected": {
+          "chapter": 2,
+          "section": "2.3"
+        },
+        "retrieved_meta": [
+          {
+            "chunk_id": "openstax_econ_3e_p35_fixed_1",
+            "page": 35,
+            "metadata": {
+              "section": "2.1",
+              "strategy": "fixed_size",
+              "chunk_index": 1
+            }
+          },
+          {
+            "chunk_id": "openstax_econ_3e_p33_fixed_2",
+            "page": 33,
+            "metadata": {
+              "strategy": "fixed_size",
+              "chunk_index": 2
+            }
+          },
+          {
+            "chunk_id": "openstax_econ_3e_p4_fixed_0",
+            "page": 4,
+            "metadata": {
+              "strategy": "fixed_size",
+              "chunk_index": 0
+            }
+          }
+        ],
+        "correct_and_complete_out_of_3": 3,
+        "filter_compliant_out_of_3_or_NA": "N/A"
+      },
+      {
+        "id": "q06",
+        "strategy": "B",
+        "filter_expected": null,
+        "retrieved_meta": [
+          {
+            "chunk_id": "openstax_econ_3e_p32_para_0",
+            "page": 32,
+            "metadata": {
+              "strategy": "by_paragraph",
+              "chunk_index": 0
+            }
+          },
+          {
+            "chunk_id": "openstax_econ_3e_p35_para_1",
+            "page": 35,
+            "metadata": {
+              "section": "2.1",
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            }
+          },
+          {
+            "chunk_id": "openstax_econ_3e_p37_para_0",
+            "page": 37,
+            "metadata": {
+              "strategy": "by_paragraph",
+              "chunk_index": 0
+            }
+          }
+        ],
+        "correct_and_complete_out_of_3": 3,
+        "filter_compliant_out_of_3_or_NA": "N/A"
+      },
+      {
+        "id": "q12",
+        "strategy": "B",
+        "filter_expected": null,
+        "retrieved_meta": [
+          {
+            "chunk_id": "openstax_econ_3e_p11_para_1",
+            "page": 11,
+            "metadata": {
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            }
+          },
+          {
+            "chunk_id": "openstax_econ_3e_p13_para_1",
+            "page": 13,
+            "metadata": {
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            }
+          },
+          {
+            "chunk_id": "openstax_econ_3e_p12_para_0",
+            "page": 12,
+            "metadata": {
+              "strategy": "by_paragraph",
+              "chunk_index": 0
+            }
+          }
+        ],
+        "correct_and_complete_out_of_3": 3,
+        "filter_compliant_out_of_3_or_NA": "N/A"
+      },
+      {
+        "id": "q16",
+        "strategy": "B",
+        "filter_expected": null,
+        "retrieved_meta": [
+          {
+            "chunk_id": "openstax_econ_3e_p12_para_1",
+            "page": 12,
+            "metadata": {
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            }
+          },
+          {
+            "chunk_id": "openstax_econ_3e_p12_para_3",
+            "page": 12,
+            "metadata": {
+              "strategy": "by_paragraph",
+              "chunk_index": 3
+            }
+          },
+          {
+            "chunk_id": "openstax_econ_3e_p12_para_2",
+            "page": 12,
+            "metadata": {
+              "strategy": "by_paragraph",
+              "chunk_index": 2
+            }
+          }
+        ],
+        "correct_and_complete_out_of_3": 3,
+        "filter_compliant_out_of_3_or_NA": "N/A"
+      },
+      {
+        "id": "q17",
+        "strategy": "B",
+        "filter_expected": null,
+        "retrieved_meta": [
+          {
+            "chunk_id": "openstax_econ_3e_p29_para_5",
+            "page": 29,
+            "metadata": {
+              "strategy": "by_paragraph",
+              "chunk_index": 5
+            }
+          },
+          {
+            "chunk_id": "openstax_econ_3e_p30_para_3",
+            "page": 30,
+            "metadata": {
+              "strategy": "by_paragraph",
+              "chunk_index": 3
+            }
+          },
+          {
+            "chunk_id": "openstax_econ_3e_p30_para_1",
+            "page": 30,
+            "metadata": {
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            }
+          }
+        ],
+        "correct_and_complete_out_of_3": 3,
+        "filter_compliant_out_of_3_or_NA": "N/A"
+      },
+      {
+        "id": "q20",
+        "strategy": "B",
+        "filter_expected": {
+          "chapter": 2,
+          "section": "2.3"
+        },
+        "retrieved_meta": [
+          {
+            "chunk_id": "openstax_econ_3e_p33_para_2",
+            "page": 33,
+            "metadata": {
+              "strategy": "by_paragraph",
+              "chunk_index": 2
+            }
+          },
+          {
+            "chunk_id": "openstax_econ_3e_p4_para_0",
+            "page": 4,
+            "metadata": {
+              "strategy": "by_paragraph",
+              "chunk_index": 0
+            }
+          },
+          {
+            "chunk_id": "openstax_econ_3e_p32_para_1",
+            "page": 32,
+            "metadata": {
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            }
+          }
+        ],
+        "correct_and_complete_out_of_3": 3,
+        "filter_compliant_out_of_3_or_NA": "N/A"
+      },
+      {
+        "id": "q06",
+        "strategy": "C",
+        "filter_expected": null,
+        "retrieved_meta": [
+          {
+            "chunk_id": "openstax_econ_3e_p32_para_0",
+            "page": 32,
+            "metadata": {
+              "strategy": "by_paragraph",
+              "chunk_index": 0
+            }
+          },
+          {
+            "chunk_id": "openstax_econ_3e_p35_para_1",
+            "page": 35,
+            "metadata": {
+              "section": "2.1",
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            }
+          },
+          {
+            "chunk_id": "openstax_econ_3e_p37_para_0",
+            "page": 37,
+            "metadata": {
+              "strategy": "by_paragraph",
+              "chunk_index": 0
+            }
+          }
+        ],
+        "correct_and_complete_out_of_3": 3,
+        "filter_compliant_out_of_3_or_NA": "N/A"
+      },
+      {
+        "id": "q12",
+        "strategy": "C",
+        "filter_expected": null,
+        "retrieved_meta": [
+          {
+            "chunk_id": "openstax_econ_3e_p11_para_1",
+            "page": 11,
+            "metadata": {
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            }
+          },
+          {
+            "chunk_id": "openstax_econ_3e_p13_para_1",
+            "page": 13,
+            "metadata": {
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            }
+          },
+          {
+            "chunk_id": "openstax_econ_3e_p12_para_0",
+            "page": 12,
+            "metadata": {
+              "strategy": "by_paragraph",
+              "chunk_index": 0
+            }
+          }
+        ],
+        "correct_and_complete_out_of_3": 3,
+        "filter_compliant_out_of_3_or_NA": "N/A"
+      },
+      {
+        "id": "q16",
+        "strategy": "C",
+        "filter_expected": null,
+        "retrieved_meta": [
+          {
+            "chunk_id": "openstax_econ_3e_p12_para_1",
+            "page": 12,
+            "metadata": {
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            }
+          },
+          {
+            "chunk_id": "openstax_econ_3e_p12_para_3",
+            "page": 12,
+            "metadata": {
+              "strategy": "by_paragraph",
+              "chunk_index": 3
+            }
+          },
+          {
+            "chunk_id": "openstax_econ_3e_p12_para_2",
+            "page": 12,
+            "metadata": {
+              "strategy": "by_paragraph",
+              "chunk_index": 2
+            }
+          }
+        ],
+        "correct_and_complete_out_of_3": 3,
+        "filter_compliant_out_of_3_or_NA": "N/A"
+      },
+      {
+        "id": "q17",
+        "strategy": "C",
+        "filter_expected": null,
+        "retrieved_meta": [
+          {
+            "chunk_id": "openstax_econ_3e_p29_para_5",
+            "page": 29,
+            "metadata": {
+              "strategy": "by_paragraph",
+              "chunk_index": 5
+            }
+          },
+          {
+            "chunk_id": "openstax_econ_3e_p30_para_3",
+            "page": 30,
+            "metadata": {
+              "strategy": "by_paragraph",
+              "chunk_index": 3
+            }
+          },
+          {
+            "chunk_id": "openstax_econ_3e_p30_para_1",
+            "page": 30,
+            "metadata": {
+              "strategy": "by_paragraph",
+              "chunk_index": 1
+            }
+          }
+        ],
+        "correct_and_complete_out_of_3": 3,
+        "filter_compliant_out_of_3_or_NA": "N/A"
+      },
+      {
+        "id": "q20",
+        "strategy": "C",
+        "filter_expected": {
+          "chapter": 2,
+          "section": "2.3"
+        },
+        "retrieved_meta": [],
+        "correct_and_complete_out_of_3": 0,
+        "filter_compliant_out_of_3_or_NA": 0
+      }
+    ]
+  },
+  "3_grounding_quality_0_to_2": {
+    "rubric": "0 = no evidence, 1 = incomplete, 2 = sufficient + traceable (retrieval only, not LLM answer)",
+    "items": [
+      {
+        "id": "q06",
+        "strategy": "A",
+        "question": "What distinction do philosophers draw regarding positive statements?",
+        "gold_page": 31,
+        "evidence_quote": "Philosophers draw a distinction between positive statements, which describe the world as it is, and",
+        "top3_pages": [
+          31,
+          36,
+          32
+        ],
+        "score_0_to_2": 2
+      },
+      {
+        "id": "q12",
+        "strategy": "A",
+        "question": "In an economy where economic decisions come down from a ruling authority, who decides what is produced and what prices are charged?",
+        "gold_page": 11,
+        "evidence_quote": "In a command economy, the government decides what goods and services will be produced and what prices it",
+        "top3_pages": [
+          13,
+          11,
+          8
+        ],
+        "score_0_to_2": 1
+      },
+      {
+        "id": "q16",
+        "strategy": "A",
+        "question": "Which countries were left out of the 2016 Index of Economic Freedom ranking, and why?",
+        "gold_page": 12,
+        "evidence_quote": "made judgments about economic freedom impossible. These countries include Afghanistan, Iraq, Libya, Syria,",
+        "top3_pages": [
+          12,
+          12,
+          12
+        ],
+        "score_0_to_2": 2
+      },
+      {
+        "id": "q17",
+        "strategy": "A",
+        "question": "When is a country said to have a comparative advantage in a good?",
+        "gold_page": 30,
+        "evidence_quote": "When a country can produce a good at a lower opportunity cost than another country, we say that this country",
+        "top3_pages": [
+          30,
+          29,
+          36
+        ],
+        "score_0_to_2": 2
+      },
+      {
+        "id": "q20",
+        "strategy": "A",
+        "question": "In Section 2.3, what name did Adam Smith give to the property by which self-interested behavior can lead to positive social results?",
+        "gold_page": 33,
+        "evidence_quote": "property the invisible hand.",
+        "top3_pages": [
+          35,
+          33,
+          4
+        ],
+        "score_0_to_2": 1
+      },
+      {
+        "id": "q06",
+        "strategy": "B",
+        "question": "What distinction do philosophers draw regarding positive statements?",
+        "gold_page": 31,
+        "evidence_quote": "Philosophers draw a distinction between positive statements, which describe the world as it is, and",
+        "top3_pages": [
+          32,
+          35,
+          37
+        ],
+        "score_0_to_2": 1
+      },
+      {
+        "id": "q12",
+        "strategy": "B",
+        "question": "In an economy where economic decisions come down from a ruling authority, who decides what is produced and what prices are charged?",
+        "gold_page": 11,
+        "evidence_quote": "In a command economy, the government decides what goods and services will be produced and what prices it",
+        "top3_pages": [
+          11,
+          13,
+          12
+        ],
+        "score_0_to_2": 2
+      },
+      {
+        "id": "q16",
+        "strategy": "B",
+        "question": "Which countries were left out of the 2016 Index of Economic Freedom ranking, and why?",
+        "gold_page": 12,
+        "evidence_quote": "made judgments about economic freedom impossible. These countries include Afghanistan, Iraq, Libya, Syria,",
+        "top3_pages": [
+          12,
+          12,
+          12
+        ],
+        "score_0_to_2": 2
+      },
+      {
+        "id": "q17",
+        "strategy": "B",
+        "question": "When is a country said to have a comparative advantage in a good?",
+        "gold_page": 30,
+        "evidence_quote": "When a country can produce a good at a lower opportunity cost than another country, we say that this country",
+        "top3_pages": [
+          29,
+          30,
+          30
+        ],
+        "score_0_to_2": 2
+      },
+      {
+        "id": "q20",
+        "strategy": "B",
+        "question": "In Section 2.3, what name did Adam Smith give to the property by which self-interested behavior can lead to positive social results?",
+        "gold_page": 33,
+        "evidence_quote": "property the invisible hand.",
+        "top3_pages": [
+          33,
+          4,
+          32
+        ],
+        "score_0_to_2": 1
+      },
+      {
+        "id": "q06",
+        "strategy": "C",
+        "question": "What distinction do philosophers draw regarding positive statements?",
+        "gold_page": 31,
+        "evidence_quote": "Philosophers draw a distinction between positive statements, which describe the world as it is, and",
+        "top3_pages": [
+          32,
+          35,
+          37
+        ],
+        "score_0_to_2": 1
+      },
+      {
+        "id": "q12",
+        "strategy": "C",
+        "question": "In an economy where economic decisions come down from a ruling authority, who decides what is produced and what prices are charged?",
+        "gold_page": 11,
+        "evidence_quote": "In a command economy, the government decides what goods and services will be produced and what prices it",
+        "top3_pages": [
+          11,
+          13,
+          12
+        ],
+        "score_0_to_2": 2
+      },
+      {
+        "id": "q16",
+        "strategy": "C",
+        "question": "Which countries were left out of the 2016 Index of Economic Freedom ranking, and why?",
+        "gold_page": 12,
+        "evidence_quote": "made judgments about economic freedom impossible. These countries include Afghanistan, Iraq, Libya, Syria,",
+        "top3_pages": [
+          12,
+          12,
+          12
+        ],
+        "score_0_to_2": 2
+      },
+      {
+        "id": "q17",
+        "strategy": "C",
+        "question": "When is a country said to have a comparative advantage in a good?",
+        "gold_page": 30,
+        "evidence_quote": "When a country can produce a good at a lower opportunity cost than another country, we say that this country",
+        "top3_pages": [
+          29,
+          30,
+          30
+        ],
+        "score_0_to_2": 2
+      },
+      {
+        "id": "q20",
+        "strategy": "C",
+        "question": "In Section 2.3, what name did Adam Smith give to the property by which self-interested behavior can lead to positive social results?",
+        "gold_page": 33,
+        "evidence_quote": "property the invisible hand.",
+        "top3_pages": [],
+        "score_0_to_2": 2
+      }
+    ]
+  },
+  "audit_summary": {
+    "coherence_mean": {
+      "A": 1.0,
+      "B": 1.0,
+      "C": 1.0
+    },
+    "metadata_usefulness": {
+      "A": {
+        "correct_and_complete": "15/15",
+        "filter_compliance": "N/A"
+      },
+      "B": {
+        "correct_and_complete": "15/15",
+        "filter_compliance": "N/A"
+      },
+      "C": {
+        "correct_and_complete": "12/15",
+        "filter_compliance": "0/3"
+      }
+    },
+    "grounding_mean": {
+      "A": 1.6,
+      "B": 1.6,
+      "C": 1.8
+    }
+  }
+}

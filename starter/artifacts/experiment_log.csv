@@ -1,0 +1,4 @@
+strategy,chunking,filter,hypothesis,chunk_count,ingest_sec,dev_hit_at_1,dev_hit_at_3,test_hit_at_1,test_hit_at_3,coherence_mean,grounding_mean
+A,"fixed_size(500, 50)",none,Baseline fixed-size chunking; may split mid-idea.,273,8.09,7/15 (46.7%),10/15 (66.7%),2/5 (40.0%),3/5 (60.0%),1.0,1.6
+B,by_paragraph(800),none,Paragraph-aware chunking improves coherence and Hit@3 over A.,176,7.71,5/15 (33.3%),10/15 (66.7%),1/5 (20.0%),3/5 (60.0%),1.0,1.6
+C,by_paragraph(800),SQL metadata filter (when supplied),Adding metadata filter improves precision over B on scoped queries.,176,7.95,5/15 (33.3%),9/15 (60.0%),1/5 (20.0%),3/5 (60.0%),1.0,1.8
