@@ -1,0 +1,202 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "How does the chapter define economics?",
+    "expected_answer": "Economics is the study of how humans make decisions in the face of scarcity.",
+    "gold_source_id": "openstax_econ_3e",
+    "gold_page": 2,
+    "evidence_quote": "Economics is the study of how humans make decisions in the face of scarcity.",
+    "filter": null
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "How many distinct tasks did Adam Smith count in making a pin?",
+    "expected_answer": "Smith counted 18 distinct tasks performed by different people in making a pin.",
+    "gold_source_id": "openstax_econ_3e",
+    "gold_page": 4,
+    "evidence_quote": "Smith counted 18 distinct tasks that different people",
+    "filter": null
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "What does monetary policy involve?",
+    "expected_answer": "Monetary policy involves policies that affect bank lending, interest rates, and financial capital markets.",
+    "gold_source_id": "openstax_econ_3e",
+    "gold_page": 8,
+    "evidence_quote": "which involves policies that affect bank lending, interest rates, and financial capital markets.",
+    "filter": null
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "What do economists mean by the term opportunity cost?",
+    "expected_answer": "Opportunity cost indicates what people must give up to obtain what they desire.",
+    "gold_source_id": "openstax_econ_3e",
+    "gold_page": 21,
+    "evidence_quote": "Economists use the term opportunity cost to indicate what people must give up to obtain what they desire.",
+    "filter": null
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "What does productive efficiency mean?",
+    "expected_answer": "Given the available inputs and technology, it is impossible to produce more of one good without decreasing the quantity produced of another good.",
+    "gold_source_id": "openstax_econ_3e",
+    "gold_page": 29,
+    "evidence_quote": "Productive efficiency means that, given the available inputs and technology, it is impossible to produce more",
+    "filter": null
+  },
+  {
+    "id": "q06",
+    "split": "test",
+    "question": "What distinction do philosophers draw regarding positive statements?",
+    "expected_answer": "Positive statements describe the world as it is, whereas normative statements describe how the world should be.",
+    "gold_source_id": "openstax_econ_3e",
+    "gold_page": 31,
+    "evidence_quote": "Philosophers draw a distinction between positive statements, which describe the world as it is, and",
+    "filter": null
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "What term describes the situation in which people's desires for goods, services and resources are greater than what can be supplied?",
+    "expected_answer": "Scarcity.",
+    "gold_source_id": "openstax_econ_3e",
+    "gold_page": 2,
+    "evidence_quote": "Scarcity means that human wants for goods, services and resources exceed",
+    "filter": null
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "Which branch of economics studies the entire economy rather than its separate participants, and what broad issues does it focus on?",
+    "expected_answer": "Macroeconomics, which looks at the economy as a whole and focuses on broad issues such as growth of production, the number of unemployed people, the inflationary increase in prices, government deficits, and levels of exports and imports.",
+    "gold_source_id": "openstax_econ_3e",
+    "gold_page": 7,
+    "evidence_quote": "Macroeconomics looks at the economy as a whole.",
+    "filter": null
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "Why does a factory making 50,000 cars a year have a lower cost per car than one making only 100?",
+    "expected_answer": "At that volume it can set up an assembly line with huge machines and workers performing specialized tasks, so the average cost of production per car is lower (economies of scale).",
+    "gold_source_id": "openstax_econ_3e",
+    "gold_page": 5,
+    "evidence_quote": "However, if a factory produces 50,000 cars each year, then it can set up an assembly line with huge machines and",
+    "filter": null
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "Which transportation improvements helped drive globalization by cutting the expense of moving goods?",
+    "expected_answer": "Improvements in shipping (such as container ships) and air cargo have driven down transportation costs.",
+    "gold_source_id": "openstax_econ_3e",
+    "gold_page": 14,
+    "evidence_quote": "air cargo have driven down transportation costs.",
+    "filter": null
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "Why should money that has already been spent and cannot be recovered be left out of current choices?",
+    "expected_answer": "Such costs were incurred in the past and cannot be recovered, so they should not affect the current decision.",
+    "gold_source_id": "openstax_econ_3e",
+    "gold_page": 25,
+    "evidence_quote": "that were incurred in the past and cannot be recovered, should not affect the current decision.",
+    "filter": null
+  },
+  {
+    "id": "q12",
+    "split": "test",
+    "question": "In an economy where economic decisions come down from a ruling authority, who decides what is produced and what prices are charged?",
+    "expected_answer": "The government decides what goods and services will be produced and what prices it will charge (a command economy).",
+    "gold_source_id": "openstax_econ_3e",
+    "gold_page": 11,
+    "evidence_quote": "In a command economy, the government decides what goods and services will be produced and what prices it",
+    "filter": null
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "Under what condition is a combination of burgers and bus tickets unaffordable for Alphonso?",
+    "expected_answer": "When the combination lies outside the budget constraint, because it would cost more money than Alphonso has in his budget.",
+    "gold_source_id": "openstax_econ_3e",
+    "gold_page": 21,
+    "evidence_quote": "point outside the constraint is not affordable, because it would cost more money than Alphonso has in his",
+    "filter": null
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "For how long would a rational consumer keep purchasing additional units of a product?",
+    "expected_answer": "Only as long as the marginal utility exceeds the opportunity cost.",
+    "gold_source_id": "openstax_econ_3e",
+    "gold_page": 25,
+    "evidence_quote": "A rational consumer would only purchase additional units of some product as long as the marginal utility",
+    "filter": null
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "In what situations may an economy be able to expand its consumption of all goods?",
+    "expected_answer": "Two situations: when a society has been using its resources inefficiently and improves efficiency to produce on the production possibilities frontier, or when resources grow over time (more labor and capital) or technology improves, shifting the PPF outward.",
+    "gold_source_id": "openstax_econ_3e",
+    "gold_page": 29,
+    "evidence_quote": "Every economy faces two situations in which it may be able to expand consumption of all goods.",
+    "filter": null
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "Which countries were left out of the 2016 Index of Economic Freedom ranking, and why?",
+    "expected_answer": "Afghanistan, Iraq, Libya, Syria, Somalia, and Yemen were not ranked because of extreme instability that made judgments about economic freedom impossible.",
+    "gold_source_id": "openstax_econ_3e",
+    "gold_page": 12,
+    "evidence_quote": "made judgments about economic freedom impossible. These countries include Afghanistan, Iraq, Libya, Syria,",
+    "filter": null
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "When is a country said to have a comparative advantage in a good?",
+    "expected_answer": "When it can produce the good at a lower opportunity cost than another country.",
+    "gold_source_id": "openstax_econ_3e",
+    "gold_page": 30,
+    "evidence_quote": "When a country can produce a good at a lower opportunity cost than another country, we say that this country",
+    "filter": null
+  },
+  {
+    "id": "q18",
+    "split": "dev",
+    "question": "In Section 1.2, what two types of policies does macroeconomics use to pursue its goals?",
+    "expected_answer": "Monetary policy and fiscal policy.",
+    "gold_source_id": "openstax_econ_3e",
+    "gold_page": 17,
+    "evidence_quote": "Macroeconomics has two types of policies for pursuing these goals: monetary",
+    "filter": {"chapter": 1, "section": "1.2"}
+  },
+  {
+    "id": "q19",
+    "split": "dev",
+    "question": "In Section 1.4, which type of economic system is described as the oldest?",
+    "expected_answer": "The traditional economy, which is used in parts of Asia, Africa, and South America.",
+    "gold_source_id": "openstax_econ_3e",
+    "gold_page": 10,
+    "evidence_quote": "the oldest economic system and is used in parts of Asia, Africa, and South America.",
+    "filter": {"chapter": 1, "section": "1.4"}
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "In Section 2.3, what name did Adam Smith give to the property by which self-interested behavior can lead to positive social results?",
+    "expected_answer": "The invisible hand.",
+    "gold_source_id": "openstax_econ_3e",
+    "gold_page": 33,
+    "evidence_quote": "property the invisible hand.",
+    "filter": {"chapter": 2, "section": "2.3"}
+  }
+]
