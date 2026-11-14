@@ -1,6 +1,7 @@
 """Choose a real embedding provider (API or local) and implement this contract."""
+import os
 from typing import Protocol
-
+from sentence_transformers import SentenceTransformer
 
 class Embedder(Protocol):
     model_name: str
@@ -16,14 +17,31 @@ class Embedder(Protocol):
 
 
 class MyEmbedder:
-    """TODO: implement a provider adapter; do not silently fall back to mock vectors."""
+    """Real embedding provider adapter (local sentence-transformers or OpenAI-compatible API)."""
 
-    def __init__(self, model_name: str) -> None:
+    def __init__(
+        self,
+        model_name: str = "sentence-transformers/all-MiniLM-L6-v2",
+    ) -> None:
         self.model_name = model_name
-        raise NotImplementedError("TODO: initialize real embedder and dimensions")
+        self._model = SentenceTransformer(model_name)
+        dim = self._model.get_sentence_embedding_dimension()
+        if dim is None:
+            raise RuntimeError(f"Could not determine dimensions for {model_name}")
+        self.dimensions = int(dim)
 
     def embed_documents(self, texts: list[str]) -> list[list[float]]:
-        raise NotImplementedError("TODO: embed_documents")
+        if not texts:
+            return []
+
+        vectors = self._model.encode(
+            texts,
+            batch_size=64,
+            normalize_embeddings=True,
+            show_progress_bar=False,
+        )
+        
+        return [v.tolist() for v in vectors]
 
     def embed_query(self, question: str) -> list[float]:
-        raise NotImplementedError("TODO: embed_query")
+        return self.embed_documents([question])[0]
